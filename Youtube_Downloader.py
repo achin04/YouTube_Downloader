@@ -11,7 +11,7 @@ print("View: ", yt.views) # Displays views of Video
 
 yd = yt.streams.get_highest_resolution() # Retrives the highest quality of video
 
-yd.download(r'C:\Users\aaron\Desktop\Saved Youtube Videos') # Downloads into file in bracket
+yd.download(r'[FILE LINK GOES HERE') # Downloads into file in bracket
 
 # To download Youtube Video
 # - In the terminal type [python Youtube_Downloader.py "(inset link here)"]
