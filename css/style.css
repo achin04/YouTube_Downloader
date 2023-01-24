@@ -1,0 +1,16 @@
+body {
+    margin: 0;
+    font-family: system-ui;
+}
+
+h1 {
+    margin: 0;
+    background-image: url("../images/youtube.jpg");
+
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-size: cover;
+    
+    background-color: #d8cfc4;
+    color: rgb(255, 255, 255);
+}
